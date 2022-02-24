@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="message">Note supprimée</string>
+    <string name="action">Annuler</string>
+    <string name="add">Ajouter</string>
+    <string name="delete">Supprimer</string>
+    <string name="title_message">Titre obligatoire</string>
+    <string name="save">Sauvegarder</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="message">Todo delete</string>
+    <string name="action">Undo</string>
+    <string name="logo" translatable="false">logo</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="title_message">Need title</string>
+    <string name="save">Save</string>
+</resources>
